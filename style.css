@@ -1,0 +1,54 @@
+/* font-family: 'Poppins', sans-serif;     */
+.back-image{
+    background-image: url(images/background.jpg);
+    
+}
+.all-palyers{
+    display: flex;
+    grid-row-gap: 30%;
+    display: inline-block;
+}
+  
+.player{
+    display:grid ;
+    color:blue;
+    font-size: 20px;
+ }
+.players{
+    border: 2px solid gray;
+    background-color:whitesmoke;
+    width: 16%;
+    height: 20%;
+    text-align:start;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    border-radius: 5px;
+}
+ .players-box{
+    display: grid;
+    border: 2px solid gray;
+    background-color:whitesmoke;
+    width: 20%;
+    height: 35%;
+    text-align:start;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    border-radius: 10px;
+        
+ }
+ .players-box .container{
+     justify-content: space-evenly;
+ }
+ 
+
+   
+ 
+    
+
+ 
+
+ 
+ 
+  
+  
+ 
